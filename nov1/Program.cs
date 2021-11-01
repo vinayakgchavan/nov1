@@ -10,7 +10,7 @@ namespace nov1
             Console.WriteLine("Hellodasdasd!");
             Console.WriteLine("Hellodasdasd!");
 
-            Console.WriteLine("new branch");
+            Console.WriteLine("new branch2");
         }
     }
 }
